@@ -13,6 +13,7 @@ const buildControl = (props) => (
             onClick={props.removed}            
             disabled={props.disabled}  >Less</button>
     </div> 
+    
 );
 
 export default buildControl;
